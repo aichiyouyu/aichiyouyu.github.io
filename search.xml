@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/04/26/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+    <title>HelloWorld!</title>
+    <url>/2023/04/26/HelloWorld/</url>
+    <content><![CDATA[<h1 id="初始"><a href="#初始" class="headerlink" title="初始"></a>初始</h1><h2 id="欢迎大家来到我的个人博客！"><a href="#欢迎大家来到我的个人博客！" class="headerlink" title="欢迎大家来到我的个人博客！"></a>欢迎大家来到我的个人博客！</h2><h2 id="我是一个头发茂盛的萌新程序员，也是一名计算机专业的职高生。以后每周我都会更新一篇博客并同步到CSDN、网页上，如果大家有什么好的建议欢迎随时留言哦"><a href="#我是一个头发茂盛的萌新程序员，也是一名计算机专业的职高生。以后每周我都会更新一篇博客并同步到CSDN、网页上，如果大家有什么好的建议欢迎随时留言哦" class="headerlink" title="我是一个头发茂盛的萌新程序员，也是一名计算机专业的职高生。以后每周我都会更新一篇博客并同步到CSDN、网页上，如果大家有什么好的建议欢迎随时留言哦~"></a>我是一个头发茂盛的萌新程序员，也是一名计算机专业的职高生。以后每周我都会更新一篇博客并同步到CSDN、网页上，如果大家有什么好的建议欢迎随时留言哦~</h2><h2 id="有重要的事也可以通过邮件联系我-51-49-x36-x31-x36-x34-x36-x32-x36-x30-64-x71-113-x2e-x63-x6f-x6d"><a href="#有重要的事也可以通过邮件联系我-51-49-x36-x31-x36-x34-x36-x32-x36-x30-64-x71-113-x2e-x63-x6f-x6d" class="headerlink" title="有重要的事也可以通过邮件联系我 &#51;&#49;&#x36;&#x31;&#x36;&#x34;&#x36;&#x32;&#x36;&#x30;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;"></a>有重要的事也可以通过邮件联系我 <a href="mailto:&#51;&#49;&#x36;&#x31;&#x36;&#x34;&#x36;&#x32;&#x36;&#x30;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#51;&#49;&#x36;&#x31;&#x36;&#x34;&#x36;&#x32;&#x36;&#x30;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></h2>]]></content>
+      <tags>
+        <tag>初始</tag>
+      </tags>
   </entry>
 </search>
